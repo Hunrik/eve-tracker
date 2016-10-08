@@ -13,3 +13,10 @@ bootstrap/cache/
 
 # Rocketeer PHP task runner and deployment package. https://github.com/rocketeers/rocketeer
 .rocketeer/
+
+# Mac specific
+.DS_Store
+
+# Editor specific
+.phpintel/
+.remote-sync.json
