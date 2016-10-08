@@ -20,3 +20,4 @@ bootstrap/cache/
 # Editor specific
 .phpintel/
 .remote-sync.json
+sftp-config.json
